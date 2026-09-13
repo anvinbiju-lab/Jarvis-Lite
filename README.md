@@ -107,22 +107,4 @@ com.example
 
 ---
 
-## 📤 Pushing to GitHub
-
-To push this repository to GitHub directly from **Google AI Studio**:
-
-1. Click on the **Project Settings / GitHub** button in the top navigation bar of Google AI Studio.
-2. Select **Push to GitHub** (or **Export to GitHub Repository**).
-3. Connect your GitHub account and choose your repository name (e.g., `jarvis-lite-android`).
-4. Click **Publish / Push** — all source code, resources, Gradle configurations, and this `README.md` will be committed to your repository.
-
-*Alternatively, if exporting as a ZIP file:*
-```bash
-git init
-git add .
-git commit -m "Initial commit: Jarvis Lite Android Assistant"
-git branch -M main
-git remote add origin https://github.com/<your-username>/<your-repo-name>.git
-git push -u origin main
-```
 
