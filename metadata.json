@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis Lite",
+  "description": "A voice-first JARVIS-style assistant prototype using Accessibility actions, system controls, and smart intent parsing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
